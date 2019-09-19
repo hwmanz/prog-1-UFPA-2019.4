@@ -25,11 +25,6 @@ double areaRet(double b,double h){
 }
 //fim da função para a area do retangulo
 
-double losangulo(double d, double D){
-    double area = (d * D) / 2;
-    return area;
-  }
-
 	// area trapezio e triangulo
 #include <stdio.h>
 double areaTrapezio(double A, double B, double C){
@@ -154,7 +149,6 @@ void menu(void){
 			resultado = poligonoR(nlados, apotema, lados);
 	}
 }
-
 
 int main(void){
 
