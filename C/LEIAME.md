@@ -1,0 +1,1 @@
+Exercicios resolvidos durante a primeira parte da matéria, onde a linguagem C foi estudada.
