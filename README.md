@@ -1,4 +1,4 @@
-#Soluçoes de questões de programação
+Soluçoes de questões de programação
 
 Todos os exercícios enumerados foram retirados de urionlinejudge.com
 
