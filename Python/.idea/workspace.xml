@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d98b035d-1c0a-4044-a9ea-a6adff1073f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d98b035d-1c0a-4044-a9ea-a6adff1073f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/Lista 3/1046 - Tempo de Jogo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -25,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/Lista 3/1048 - Aumento de Salário.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="29" lean-forward="true" selection-end-line="21" />
+              <caret line="20" column="29" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -103,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,8 +118,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -267,12 +268,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Python" />
       <item itemvalue="Python.1042 - Sort simples" />
       <item itemvalue="Python.1043 - Triângulo" />
       <item itemvalue="Python.1044 - Tipos de Triângulos" />
       <item itemvalue="Python.1046 - Tempo de Jogo" />
       <item itemvalue="Python.1048 - Aumento de Salário" />
+      <item itemvalue="Python.Python" />
     </list>
     <recent_temporary>
       <list>
@@ -478,14 +479,14 @@
     <entry file="file://$PROJECT_DIR$/Lista 3/1046 - Tempo de Jogo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lista 3/1048 - Aumento de Salário.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="29" lean-forward="true" selection-end-line="21" />
+          <caret line="20" column="29" selection-end-line="21" />
         </state>
       </provider>
     </entry>
